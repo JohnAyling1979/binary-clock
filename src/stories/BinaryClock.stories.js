@@ -1,5 +1,5 @@
 import React from 'react';
-import BinaryClock from './BinaryClock';
+import BinaryClock from '../components/BinaryClock';
 
 export default {
     title: 'Binary Clock',
